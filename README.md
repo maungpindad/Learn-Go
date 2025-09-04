@@ -8,5 +8,5 @@ Code that i use to learning Go.
 
 **Language:** Go
 
-**Editor:** Intellij Idea, Neovim
+**Editor:** Intellij Idea, Neovim, VSCode
 
